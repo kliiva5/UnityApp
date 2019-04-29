@@ -18,7 +18,7 @@ a ball game as an example so that newcommers would be able to fully enjoy making
 
 ## Additional content
 
-No addtional content was added during this assignement, since the maker has little experience with Unity.
+No additional content was added during this assignement, since the maker has little experience with Unity.
 
 ## Used technologies
 * [Unity](https://unity.com/) (v 2019.1.0f2)
